@@ -16,6 +16,9 @@
   <a href="https://www.hackerrank.com/omar939172" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
+  <a href="https://leetcode.com/Warrior_74" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo"  />
+  </a>
 </div>
 
 ###
